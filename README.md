@@ -15,7 +15,7 @@ We do not collect, store, or process any personal data from users. All data rema
 This application **does not use** any third-party services or advertising SDKs and does not share data with any third parties.
 ## 5. Your Rights
 Since all data is under your local control, you can at any time:<br>
-- Clear local app history data.<br>
+Clear local app history data.<br>
 Delete iCloud app data through your iCloud settings.
 ## 6. Contact Us
 If you have any questions about this Privacy Policy, you may contact us at: artclockapp@outlook.com.<br>
